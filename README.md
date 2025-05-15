@@ -6,7 +6,7 @@
 
 ### takes result from search engine and generates response
 
-### if inout is not 'q'  then  it will take next query executes
+### if input is not 'q'  then  it will take next query executes
 
 ### else creates chat history
 
