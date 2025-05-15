@@ -8,6 +8,6 @@
 
 ### if input is not 'q'  then  it will take next query executes
 
-### else creates chat history
+### else print chat history
 
 ### exports chat history to json, excel, csv format as output
